@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T16:02:32.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WOIrjUo0sWObtz9Pm6QP" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T16:07:55.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rNwcgEAsX94ZERP3mpo8" version="20.2.2" type="github">
   <diagram id="UCE1r4CAv3ZGkEFV3aWx" name="第 1 页">
     <mxGraphModel dx="1084" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="00jFDCK2sOJXdH6hQx0g-34" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;重定向代理指向无缝切换&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="520.01" y="408" width="250" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="00jFDCK2sOJXdH6hQx0g-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#000033&quot;&gt;多级管控&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;shadow=1;opacity=0;align=center;direction=south;" vertex="1" parent="1">
+        <mxCell id="00jFDCK2sOJXdH6hQx0g-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0066&quot;&gt;多级管控&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;shadow=1;opacity=0;align=center;direction=south;" vertex="1" parent="1">
           <mxGeometry x="560.62" y="347" width="158.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="00jFDCK2sOJXdH6hQx0g-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000033;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="00jFDCK2sOJXdH6hQx0g-1" target="00jFDCK2sOJXdH6hQx0g-28">
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="00jFDCK2sOJXdH6hQx0g-40" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;多通道软件程序包更新路径&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="514.99" y="315" width="250" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="00jFDCK2sOJXdH6hQx0g-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;智能分析&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;shadow=1;opacity=0;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="560.62" y="195.5" width="158.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
